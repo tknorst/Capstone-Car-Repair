@@ -1,0 +1,8 @@
+{
+    "name": "tknor/capstone",
+    "description": "Capstone project, uber style car help web app",
+    "type": "project",
+    "require": {
+        "facebook/graph-sdk": "^5.6"
+    }
+}
